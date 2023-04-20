@@ -6,7 +6,7 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 ## Content
 
 - [NLP/GPT/Chatbot](#NLP/GPT/Chatbot)
-- [CV/AI_drawing/3D](#CV/AI_drawing/3D)
+- [CV/Drawing/3D](#CV/Drawing/3D)
 - [Audio](#Audio)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
