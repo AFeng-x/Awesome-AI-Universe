@@ -18,9 +18,9 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 
 ### NLP/GPT/Chatbot
 
-| Name of Tool | Website | Overview |
+| Name of Tool | <th style="width:80px">Website</th> | Overview |
 | ------------ | ------- | -------- |
-| ChatGPT      | <td style="width:20px"> <ul><li>[Official Website](https://chat.openai.com/chat)</li><li>[GPT4](https://openai.com/product/gpt-4)</li></ul>  | <ul><li>ENG: The chatbot based on GPT proposed by open AI. ChatGPT Plus uses the GPT4 engine, which needs to be subscribed to use.</li><li>CH: 由Open AI 基于GPT技术开发的聊天机器人，chatgpt plus 版本采用的是GPT4引擎，需要订阅购买才能使用。</li></ul>  |
+| ChatGPT      | <ul><li>[Official Website](https://chat.openai.com/chat)</li><li>[GPT4](https://openai.com/product/gpt-4)</li></ul>  | <ul><li>ENG: The chatbot based on GPT proposed by open AI. ChatGPT Plus uses the GPT4 engine, which needs to be subscribed to use.</li><li>CH: 由Open AI 基于GPT技术开发的聊天机器人，chatgpt plus 版本采用的是GPT4引擎，需要订阅购买才能使用。</li></ul>  |
 | Tool 2       | [URL of Tool 2](http://www.example.com/tool2) | Brief description of what this tool does and its key features |
 | Tool 3       | [URL of Tool 3](http://www.example.com/tool3) | Brief description of what this tool does and its key features |
 
