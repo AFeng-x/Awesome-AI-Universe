@@ -1,7 +1,7 @@
-# Awesome-AI-Universe（AIverse）
+# 🌍 Awesome-AI-Universe（AIverse）
 Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and summarized a wide range of AI tools and resources, including GPTs, Vision, Voice, 3D and more. For each technology, we provide a brief introduction, along with its name and website, making it easy for you to explore and experiment with these exciting technologies. Our goal is to enable everyone to understand the development of AI technology through this project, and to make all popular and non-popular AI tools discoverable and accessible for everyone to use ！
 
-## Contribute
+## 📣 Contribute
 We will continuously update and curate the latest AI tools and technologies. If there are any AI technology projects that we missed or that you would like to add, we welcome everyone to contribute.
 
 ### Contributing to this paper list
@@ -10,8 +10,16 @@ We will continuously update and curate the latest AI tools and technologies. If 
 -  First, think about which category the work should belong to.
 -  Second, use the same format as the others to describe the work.
 
+<!-- ## 📅 Updates 👀
+- **2023.04.14**: 📣 Our repository is migrated to **[open-mmlab/playground](https://github.com/open-mmlab/playground#-mmocr-sam)**.
+- **2023.04.12**: Repository Release
+- **2023.04.12**: Supported the **[Inpainting](#inpainting🥸)** combined with DBNet++, SAM and ControlNet.
+- **2023.04.11**: Supported the **[Erasing](#erasing🤓)** combined with DBNet++, SAM and Latent-Diffusion / Stable-Diffusion.
+- **2023.04.10**: Supported the **[SAM for text](#sam-for-text🧐)** combined tieh DBNet++ and SAM.
+- **2023.04.09**: How effective is the SAM used on OCR Text Image, we've discussed it in the **[Blog](https://www.zhihu.com/question/593914819/answer/2976012032)**. -->
 
-## Content
+
+## 🔥 Content
 
 - [NLP/GPT/Chatbot](#NLP/GPT/Chatbot)
 - [CV/Draw/3D](#CV/Draw/3D)
