@@ -8,10 +8,8 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 - [NLP/GPT/Chatbot](#NLP/GPT/Chatbot)
 - [CV/Drawing/3D](#CV/Drawing/3D)
 - [Audio](#Audio)
-- [Contribution](#contribution)
-  - [Contributors](#contributors)
-  - [Contributing to this paper list](#contributing-to-this-paper-list)
-- [Acknowledgement](#acknowledgement)
+- [Contributing to this paper list](#Contributing to this paper list)
+
 
 
 ## Technologies
@@ -56,20 +54,14 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 | Open AI Document   |  <ul><li>[Official Web](https://platform.openai.com/overview)</li></ul>   |   <ul><li>Open AI website provides multiple functional entries such as chat, speech to text, image generation, etc., as well as access to Open AI's API Key.</li><li>Open AI 官网，网站中提供多个功能入口，例如chat，speech to text，image generation等等，以及可以获取Open AI的API Key。</li></ul> |
 
 
-### Contributors
+### Audio
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://github.com/AFeng-x/Awesome-AI-Universe#acknowledgement/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AFeng-x/Awesome-AI-Universe#acknowledgement" />
-</a>
 
 ### Contributing to this paper list
 
 - Here is the tutorial of [contributing to others projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 -  First, think about which category the work should belong to.
--  Second, use the same format as the others to describe the work. Note that there should be an empty line between the title and the author's list, and take care of the indentation.
--  Then, add [keywords tags](#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
+-  Second, use the same format as the others to describe the work.
 
 
 
