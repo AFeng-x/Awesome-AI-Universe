@@ -1,5 +1,5 @@
 # Awesome-AI-Universe（AIverse）
-Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and summarized a wide range of AI tools and resources, including GPTs, AI drawing, Voice, 3D and more. For each technology, we provide a brief introduction, along with its name and website, making it easy for you to explore and experiment with these exciting technologies. Our goal is to provide a comprehensive suite of AI capabilities for anyone interested in exploring the potential of artificial intelligence.
+Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and summarized a wide range of AI tools and resources, including GPTs, Vision, Voice, 3D and more. For each technology, we provide a brief introduction, along with its name and website, making it easy for you to explore and experiment with these exciting technologies. Our goal is to enable everyone to understand the development of AI technology through this project, and to make all popular and non-popular AI tools discoverable and accessible for everyone to use ！
 
 
 
@@ -20,7 +20,7 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 
 | Name of Tool | Website | Overview |
 | ------------ | ------- | -------- |
-| Tool 1       | [URL of Tool 1](http://www.example.com/tool1) | Brief description of what this tool does and its key features |
+| ChatGPT       | [official website](https://chat.openai.com/chat) <br> [GPT4](https://openai.com/product/gpt-4)  | eng: The chatbot based on GPT proposed by open AI. ChatGPT Plus uses the GPT4 engine, which needs to be subscribed to use. <br> ch: 由Open AI 基于GPT技术开发的聊天机器人，chatgpt plus 版本采用的是GPT4引擎，需要订阅购买才能使用。 |
 | Tool 2       | [URL of Tool 2](http://www.example.com/tool2) | Brief description of what this tool does and its key features |
 | Tool 3       | [URL of Tool 3](http://www.example.com/tool3) | Brief description of what this tool does and its key features |
 
