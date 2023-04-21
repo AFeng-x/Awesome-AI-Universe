@@ -1,6 +1,14 @@
 # Awesome-AI-Universe（AIverse）
 Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and summarized a wide range of AI tools and resources, including GPTs, Vision, Voice, 3D and more. For each technology, we provide a brief introduction, along with its name and website, making it easy for you to explore and experiment with these exciting technologies. Our goal is to enable everyone to understand the development of AI technology through this project, and to make all popular and non-popular AI tools discoverable and accessible for everyone to use ！
 
+## Contribute
+We will continuously update and curate the latest AI tools and technologies. If there are any AI technology projects that we missed or that you would like to add, we welcome everyone to contribute.
+
+### Contributing to this paper list
+
+- Here is the tutorial of [contributing to others projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+-  First, think about which category the work should belong to.
+-  Second, use the same format as the others to describe the work.
 
 
 ## Content
@@ -9,7 +17,6 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 - [CV/Draw/3D](#CV/Draw/3D)
 - [Audio/Speech](#Audio/Speech)
 - [Contribute](#Contribute)
-
 
 
 ## Technologies
@@ -74,13 +81,6 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 | Whisper   |  <ul><li>[Github](https://github.com/openai/whisper)</li><li>[Official Web](https://platform.openai.com/docs/guides/speech-to-text)</li></ul>   |   <ul><li>A universal speech recognition model trained on a large dataset containing various types of audio. It is also a multitask model capable of performing multilingual speech recognition, speech translation, and language identification.</li><li>一种通用的语音识别模型。它是在包含各种音频的大型数据集上训练的，也是一个可以执行多语言语音识别、语音翻译和语言识别的多任务模型。</li></ul> |
 | SpeechGPT   |  <ul><li>[Github](https://github.com/hahahumble/speechgpt)</li><li>[Demo](https://speechgpt.app/)</li></ul>   |   <ul><li>A website where you can have voice conversations with ChatGPT.</li><li>一个可以让你与 ChatGPT 进行语音聊天的网站</li></ul> |
 
-## Contribute
-
-### Contributing to this paper list
-
-- Here is the tutorial of [contributing to others projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
--  First, think about which category the work should belong to.
--  Second, use the same format as the others to describe the work.
 
 
 
