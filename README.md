@@ -1,14 +1,14 @@
 # 🌍 Awesome-AI-Universe（AIverse）
-Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and summarized a wide range of AI tools and resources, including GPTs, Vision, Voice, 3D and more. For each technology, we provide a brief introduction, along with its name and website, making it easy for you to explore and experiment with these exciting technologies. Our goal is to enable everyone to understand the development of AI technology through this project, and to make all popular and non-popular AI tools discoverable and accessible for everyone to use ！
+Welcome to AIverse, our awesome AI technology project! We have collected and curated a diverse range of AI tools and resources, spanning GPTs, vision, voice, 3D, and much more. Each technology is accompanied by a brief introduction, along with its name and website, making it easy for you to explore and experiment with these exciting tools. Our aim is to help everyone understand the advancements in AI technology through this project, making both popular and lesser-known AI tools discoverable and accessible for all to use!
 
 ## 📣 Contribute
-We will continuously update and curate the latest AI tools and technologies. If there are any AI technology projects that we missed or that you would like to add, we welcome everyone to contribute.
+We are committed to constantly updating and curating the latest AI tools and technologies. If you notice any AI technology projects that we have missed or that you would like to add, we welcome everyone to contribute.
 
 ### Contributing to this paper list
 
 - Here is the tutorial of [contributing to others projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
--  First, think about which category the work should belong to.
--  Second, use the same format as the others to describe the work.
+-  First, determine which category your work falls under..
+-  Second, follow the same format as the other entries to describe your work..
 
 <!-- ## 📅 Updates 👀
 - **2023.04.14**: 📣 Our repository is migrated to **[open-mmlab/playground](https://github.com/open-mmlab/playground#-mmocr-sam)**.
