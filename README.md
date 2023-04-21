@@ -20,14 +20,14 @@ We will continuously update and curate the latest AI tools and technologies. If 
 
 
 ## 🔥 Content
-- [NLP/GPT/Chatbot](#NLP~GPT~Chatbot)
-- [CV/Draw/3D](#CV~Draw~3D)
-- [Audio/Speech](#Audio~Speech)
+- [NLP/GPT/Chatbot](#NLP-GPT-Chatbot)
+- [CV/Draw/3D](#CV-Draw-3D)
+- [Audio/Speech](#Audio-Speech)
 
 
 ## Technologies
 
-### NLP~GPT~Chatbot
+### NLP-GPT-Chatbot
 
 | Name     | Website       | Overview |
 | -------  | ----------     | ----------- |
@@ -61,7 +61,7 @@ We will continuously update and curate the latest AI tools and technologies. If 
 | MiniGPT4    | <ul><li>[Github](https://github.com/Vision-CAIR/MiniGPT-4)</li><li>[Official Web](https://minigpt-4.github.io/)</li></ul> | <ul><li>The model weights were trained using blip2 and Vicuna, and further fine-tuned to provide chat responses with image inputs for ChatGPT.</li><li> 采用blip2和Vicuna训练过的模型权重，进一步训练得到的模型，可以提供图片输入的chatGPT。</li></ul> |
 
 
-### CV~Draw~3D
+### CV-Draw-3D
 
 | Name | Website | Overview |
 | ------- | --------- | ----------- |
@@ -81,7 +81,7 @@ We will continuously update and curate the latest AI tools and technologies. If 
 | roomGPT    | <ul><li>[Official Web](https://www.roomgpt.io/dream)</li><li>[Github](https://github.com/Nutlope/roomGPT)</li></ul> | <ul><li>This tool allows you to generate dreamy room effects using AI by uploading a photo of your room or a 3D rendering of it. It supports up to 3 image uploads per day, and the generated images can be downloaded and applied in interior design and decoration. Currently, the tool has generated 780,000 home decor images.</li><li> 你只需要给你的房间拍一张照，或是房间的 3D 效果图，并将其上传，即可用 AI 生成对应的梦幻房间效果图。该工具每天支持上传 3 张图片，生成的效果图支持下载，并应用于室内设计、室内装修等场景，目前已累积生成 78 万张家居效果图。</li></ul> |
 
 
-### Audio~Speech
+### Audio-Speech
 | Name | Website | Overview |
 | ------- | --------- | ----------- |
 | Whisper   |  <ul><li>[Github](https://github.com/openai/whisper)</li><li>[Official Web](https://platform.openai.com/docs/guides/speech-to-text)</li></ul>   |   <ul><li>A universal speech recognition model trained on a large dataset containing various types of audio. It is also a multitask model capable of performing multilingual speech recognition, speech translation, and language identification.</li><li>一种通用的语音识别模型。它是在包含各种音频的大型数据集上训练的，也是一个可以执行多语言语音识别、语音翻译和语言识别的多任务模型。</li></ul> |
