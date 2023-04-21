@@ -8,7 +8,7 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 - [NLP/GPT/Chatbot](#NLP/GPT/Chatbot)
 - [CV/Drawing/3D](#CV/Drawing/3D)
 - [Audio](#Audio)
-- [Contributing](#Contributing to this paper list)
+- [Contribute](#Contribute)
 
 
 
@@ -56,6 +56,8 @@ Welcome to our project, Awesome-AI-Universe（AIverse）! We've gathered and sum
 
 ### Audio
 
+
+## Contribute
 
 ### Contributing to this paper list
 
